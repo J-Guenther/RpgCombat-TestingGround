@@ -1,0 +1,20 @@
+###
+# For now, ONLY CODE
+###
+*
+!.gitignore
+!README.md´
+!*/
+!Dragon/Assets/_CameraUI/*.cs
+!Dragon/Assets/_Characters/Scripts/*.cs
+!Dragon/Assets/_Characters/Special Abilities/*.cs
+!Dragon/Assets/_Characters/Special Abilities/Area Effect/*.cs
+!Dragon/Assets/_Characters/Special Abilities/Power Attack/*.cs
+!Dragon/Assets/_Characters/Special Abilities/Self Heal/*.cs
+!Dragon/Assets/_Characters/Weapons/*.cs
+!Dragon/Assets/_Characters/Weapons/Melee/Sword/*.cs
+!Dragon/Assets/_Characters/Weapons/Melee/Unarmed/*.cs
+!Dragon/Assets/_Core/*.cs
+!Dragon/Assets/_Environment/*.cs
+!Dragon/Assets/_Levels/*.cs
+
